@@ -1,0 +1,14 @@
+# Ignore IntelliJ IDEA project files
+.idea/
+out/  
+classes/
+*.class 
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore compiled JARs except LibraryMgmt.jar
+*.jar
+!LibraryMgmt.jar
+
+
